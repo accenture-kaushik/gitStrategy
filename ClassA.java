@@ -3,6 +3,8 @@ public class ClassA {
 	
 	
 	This Class has chnages from the Master branch 
-	The Master branch will create 2 more branches - Branch Project, Branch Update
+	This is the Project Branch will will inherit changes from Framework branch
 
+	
+	********* This is the Project Branch ********* 
 }
